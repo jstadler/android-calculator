@@ -1,3 +1,5 @@
-tr {
-  width: 100%;
+input[type="button"]
+{
+width:20%;
+margin:auto;
 }
