@@ -17,4 +17,8 @@
         Jordan Stadler
       </author>
       
+      <gap:platform name="android" />
+
+		  <preference name="fullscreen" value="true" />
+      
   </widget>
