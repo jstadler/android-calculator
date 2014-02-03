@@ -3,22 +3,22 @@ body, html {
 }
 input[type="text"]
 {
-width:80%;
-height: 15vh;
-    font-size:15vw;
-    color: blue;
+  width:80%;
+  height: 15vh;
+  font-size:15vw;
+  color: blue;
 }
 input[type="button"]
 {
-    background-color:blue;
-    color:white;
-    font-size: 15vw;
-    border-radius:10px;
-width:20%;
-height: 100%;
-margin:auto;
+  background-color:blue;
+  color:white;
+  font-size: 15vw;
+  border-radius:10px;
+  width:20%;
+  height: 100%;
+  margin:auto;
 }
 div{
-    width:100%;
-    height: 20vh;
+  width:100%;
+  height: 20vh;
 }
